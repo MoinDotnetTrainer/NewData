@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\bin\Debug\ConsoleAppLocalData.exe.config
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\bin\Debug\ConsoleAppLocalData.exe
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\bin\Debug\ConsoleAppLocalData.pdb
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\obj\Debug\ConsoleAppLocalData.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\obj\Debug\ConsoleAppLocalData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\obj\Debug\ConsoleAppLocalData.exe
+C:\Users\Admin\source\repos\ConsoleAppLocalData\ConsoleAppLocalData\obj\Debug\ConsoleAppLocalData.pdb
